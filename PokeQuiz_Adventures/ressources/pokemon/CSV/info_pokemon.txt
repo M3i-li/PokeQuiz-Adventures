@@ -1,0 +1,18 @@
+remplir les fichiers csv pokémon sous cette forme:
+
+-----------pour les pokemon jouables-------------
+nom du Pokemon;ANSI_COLOR du nom;experience Max;vie Max;attaques (3);puissance des Attaques (3);indice de l'evolution par rapport au pokemon actuel dans le fichier (-1 si il n'en n'a pas)
+
+-----------pour les adversaires-------------------
+nom de l'adversaire;ANSI_COLOR du nom;vie Max;attaques (3);puissance des Attaques (3)
+
+ANSICOLOR disponibles : 
+-RED
+-YELLOW
+-GREEN
+-BLUE 
+-CYAN 
+-PURPLE
+-WHITE
+-NULL
+ATTENTION: ne mettre qu'une seule couleur dans le fichier CSV par Pokémon.

@@ -1,0 +1,17 @@
+nomPokémon;ANSI_COLOR;VieMax;ExpMax;Attaque1,Attaque2;Attaque3;PuissanceAttaque1;PuissanceAttaque2;PuissanceAttaque3;Evolution
+Méga-Dracaufeu X;PURPLE;220;9000000;Danse Flamme;Canicule;Lance-Soleil;35;80;180;0
+Dracaufeu;RED;160;900;Crocs Feu;Draco-Souffle;Lance-Flammes;20;45;110;-1
+Reptincel;RED;120;300;Griffe;Flammèche;Déflagration;10;25;60;-1
+Salamèche;RED;80;100;Griffe;Flammèche;Déflagration;5;10;20;-1
+Méga-Tortank;BLUE;220;9000000;Surf;Lumino-Canon;Hydroblast;35;80;180;0
+Tortank;CYAN;160;900;Charge;Aqua-jet;Hydrocanon;20;45;110;-1
+Carabaffe;CYAN;120;300;Charge;Aqua-jet;Hydrocanon;10;25;60;-1
+Carapuce;CYAN;80;100;Charge;Aqua-,jet;Hydrocanon;5;10;20;-1
+Méga-Florizarre;YELLOW;220;9000000;Noeud-Herbe;Végé-Attaque;Tempête Verte;35;80;180;0
+Florizarre;GREEN;160;900;Charge;Fouet-Lianes;Méga-Sangsue;20;45;110;-1
+Herbizarre;GREEN;120;300;Charge;Fouet-Lianes;Mégafouet;10;25;60;-1
+Bulbizarre;GREEN;80;100;Rugissement;Charge;Fouet-Lianes;5;10;20;-1
+Méga-Raichuwu;RED;220;9000000;Toile Élek;Météores;Ultralaser;35;80;180;0
+Raichuwu;YELLOW;160;900;Étincelle;Poing Éclair;Fatal-Foudre;20;45;110;-1
+Pikachuwu;YELLOW;120;300;Ronge;Tonnerre;Cercle Électrik;10;25;60;-1
+Pichuwu;YELLOW;80;100;Charge;Champ Électrifié;Éclair;5;10;20;-1

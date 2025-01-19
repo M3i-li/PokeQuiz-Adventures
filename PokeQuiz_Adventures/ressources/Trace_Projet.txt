@@ -1,0 +1,42 @@
+_MENU_D'ACCUEIL_ (Ecran avec dessin en ASCII pour accueillir le joueur.se.)
+:Appuyer sur entrée:
+_MENU_SELECTION_
+:Permet de choisir entre "Play" "Sauvegarde" et "Aide":
+- Sauvergarde : permet de choisir une partie antérieure.
+- Aide : affiche un .txt comme un readMe qui permet d'expliquer au joueur.se le fonctionnement du jeu.
+- Play : lance la partie.
+
+Professeur_Chen : Bonjour jeune dresseur.se comment t'appelles-tu ?
+<< Entrez votre prénom >>
+--------------------------------------------------------------------
+Suite de la discussion...
+<< Proposition du choix du pokémon de départ (le starter) >>
+
+--------------------------------------------------------------------
+Professeur_Chen : Tu es désormais prêt à partir à l'aventure. Bon courage !!
+
+_TRANSITION_MONDE_1
+-- rencontre avec le premier ennemi --
+--------------------------------------------------------------------
+Déroulement d'un combat :
+Menu visuel avec choix multiple : "Attaque" ou "Soin"
+- Attaque : permet de choisir entre : "Attaque légère" "Attaque moyenne" "Attaque lourde"
+- Attaque légère : Permet de faire une attaque qui fait peu de dégâts en répondant à une question facile.
+- Attaque moyenne : Permet de faire une attaque qui fait de bon dégâts en répondant à une question de difficulté moyenne.
+- Attaque lourde : Permet de faire une attaque qui fait beaucoup de dégâts en répondant à une question difficile.
+
+- Soin : le joueur, si il en ressent le besoin peut se soigner si le combat devient trop compliqué, il utilise un tour.
+--------------------------------------------------------------------
+Après combat :
+Une fois le combat terminé le pokemon reçoit de l'expérience en fonction du nombre de tour utilisé pour avoir vaincu l'ennemie.
+le/la joueur.se retourne dans le monde où il est et avance d'une case. Exemple : monde 2.3 fini -> monde 2.4 !!
+Si un boss est vaincu, il s'agit de la fin d'un monde. Le/La joueur.se passe donc du niveau monde 2.5 à monde 3.1 par exemple.
+le/la joueur.se continue son aventure jusque la fin ou si son pokemon n'as plus de vie la partie s'arrête.
+--------------------------------------------------------------------
+Écran de Fin !!
+Si perdu :
+Si le/la joueur.se  perd un écran s'affiche (pas très joyeux), avec son score et le/la félicite d'être parvenue jusqu'ici.
+Si gagné :
+Écran de Fin :Victoire: (Joyeux) et félicite le/la joueur.se d'avoir été à bout de ce parcours ! (peut être animé si nous avons le temps !!)
+--------------------------------------------------------------------
+Fin du Jeu

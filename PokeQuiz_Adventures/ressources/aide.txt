@@ -1,0 +1,56 @@
+                                                        
+                                                        
+                                                                            
+                                                                            ___________________________________________________
+                                                                            |                                                   |
+                                                                            |        BIENVENUE DANS POKEQUIZ ADVENTURES !       |
+                                                                            |___________________________________________________|
+
+
+
+---------------------------------------------------------------------------------------    DEROULEMENT DU JEU     ---------------------------------------------------------------------------------------------
+
+Jeune dresseur, durant cette aventure palpitante qui t'attends, tu vas devoir mettre à l'épreuve tes connaissances afin de permettre à ton pokémon de progresser dans les différents monde qui s'offiront à toi.
+Mais attention ! Ils regorgent de pokémons prêts à t'attaquer...
+Tu vas devoir tous les battre en faisant équipe avec ton compagnon de route si tu veux arriver à la fin du jeu !
+
+
+
+------------------------------------------------------------------------------------     FONCTIONNEMENT DU JEU     ---------------------------------------------------------------------------------------------
+
+Il consiste en une suite de combats pokémons, avec des adversaires de plus en plus redoutables.
+Pendant un combat, il te sera possible:
+
+-> d'attaquer ton adversaire (lui faire perdre des points de vie)
+-> de te soigner (gagner des points de vie)
+-> de prendre la fuite et de rentrer chez toi (il s'agira en fait de quitter le jeu)
+
+Pour battres tes adversaires ou pour soigner ton pokémon dans un combat, tu vas devoir répondre à des questions de culture générale plus ou moins difficiles. 
+Tu auras le choix entre trois niveaux de questions:
+
+-> Faciles
+-> Moyennes
+-> Difficiles
+
+Sachant que plus la question sera difficile, et plus le gain sera avantageux ! 
+
+Bien sûr, le combat se terminera quand l'un des deux pokémon n'a plus de vie et donc se retrouve K.O.
+PokéQuizAdventures est un logiciel proposant d'incarner un pokémon qui part à l'aventure. Pour combattre les ennemis ou se soigner, il va devoir répondre à des questions de culture générale de différents niveaux de difficulté en fonction du nombre de dégats souhaités. La partie s'arrête lorsque le pokémon n'a plus de vie, ou que le joueur décide de quitter le jeu. 
+Pour se faire, le jeu propose un écran titre au démarrage dans lequel plusieurs options sont intégrées: Jouer, Aide et Quitter.
+
+
+
+
+-----------------------------------------------------------------------------------------    COMMENT JOUER ?    -------------------------------------------------------------------------------------------------
+
+Le jeu ne se joue qu'au clavier.
+Il te suffit d'entrer la valeur correspondante à l'action que tu souhaite faire (il y aura un numéro par action) puis d'appuyer sur la touche entrée pour cnfirmer ton choix.
+
+
+                                                                            
+                                                                                        ____________________________
+                                                                                        |                            |
+                                                                                        |        BON COURAGE :)      |
+                                                                                        |____________________________|
+
+

@@ -1,0 +1,73 @@
+REPERTOIRE DES VARIABLES ET DES FONCTIONS
+
+fonctions:
+
+    - Pokemon newPokemon (String nom, int experience, int vie, String[] attaques, int[] puissanceAttaques)
+    - Monde newMonde (String nom, Pokemon[] ennemis)
+
+--------------------------------------------FONCTIONS D'AFFICHAGE--------------------------------------------------------
+    - void printTmp (String chaine)
+    - void printlnTmp (String chaine)
+    - void EffaceTmp (int compteur)
+
+----------------------------------------FONCTIONS DE CONTROLE DE CHOIX---------------------------------------------------
+    - boolean choixPasCorrecteIntervalle (String saisie, char choixDeb, char choixFin)
+    - Pokemon choixStarter ()
+    - int choixMenu()
+    - String choixPrenom ()
+
+---------------------------------------------FONCTION D'ACTIONS----------------------------------------------------------
+    - boolean PeutSeSoigner (Pokemon pokemon)
+    - void soin (int vieGagnee, Pokemon pokemon)
+    - boolean KO (int degats, int vie)
+    - void attaque (int degats, Pokemon cible)
+
+-----------------------------------------------FONCTION DE JEU-----------------------------------------------------------
+    - String Rencontre ()
+    - Pokemon DialogueChoixStarter ()
+    - boolean lancementCombat(Pokemon pokemonJoue, Monde monde)
+    - void aide ()
+    - void algorithm()
+
+
+classes:
+
+    -Pokemon
+    -Monde
+
+
+variables:
+
+    -globales:
+
+    //couleurs
+        * public static final String ANSI_RESET
+        * public static final String ANSI_RED
+        * public static final String ANSI_GREEN
+        * public static final String ANSI_YELLOW
+        * public static final String ANSI_BLUE
+        * public static final String ANSI_PURPLE
+        * public static final String ANSI_CYAN
+        * public static final String ANSI_WHITE
+
+    //pokémons
+        *Pokemon salameche
+        *Pokemon carapuce
+        *Pokemon bulbizarre
+        *Pokemon pikapika
+
+    //autres 
+        *compteur_car
+
+    - Dans la fonction principale:
+
+        *String nomJoueur;
+        *Pokemon pokemonJoue;
+
+    -----------------------------------------------IDÉE SUICIDAIRE-----------------------------------------------------------
+
+    lors d'un combat, possibilité d'utiliser une 3éme option : Pokeball.
+    elle permettra selon un facteur chance différent a chaque pokemon (Taux de capture) d'avoir une possibilité de l'attraper, mais si elle echoue le joueur passe son tour et le combat continue.
+    une fois capturer, le pokemon sera ajouté a l'équipe et servira de pokemon secondaire pour jouer si le pokemon principal est KO.
+    Si notre pokemon principal et ko le joueur aura (si il fini le monde) la possibilité de récuperer un rappel qui soignera la moitié des pv du pokemon KO.
+    (Possible inventaire a réaliser).

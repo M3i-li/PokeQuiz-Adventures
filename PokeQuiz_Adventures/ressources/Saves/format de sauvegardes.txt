@@ -1,0 +1,8 @@
+Les sauvegardes sont enregistrées sous cette forme:
+
+nomJoueur;nomPokémon;XPPokémon;ViePokémon;NuméroMonde;numeroEnnemiVieEnnemi;nombreTours
+
+Le numéro des mondes: 
+
+Si le joueur en est encore aux présentations avec le professeur: -1
+sinon: il s'agira de l'indice du monde dans lequel il se trouve 
